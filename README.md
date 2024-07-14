@@ -1,5 +1,5 @@
 
-# Building the Mistral 7B Model from Scratch
+# Building Mistral 7B Model from Scratch
 
 This project aims to provide a simple framework for training and inference of language models from scratch, with a specific focus on the **Mistral 7B** model tailored for **Algerian Darija 🇩🇿**. The repository includes tools for **model definition**, **training**, and **inference** .
 
